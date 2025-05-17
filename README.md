@@ -142,3 +142,12 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<be>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pratap-singh-397230248/" target="_blank">
+    <button style="background-color:#0077B5;color:white;padding:10px 20px;border:none;border-radius:5px;font-size:16px;cursor:pointer;">
+      Connect on LinkedIn
+    </button>
+  </a>
+</div>
