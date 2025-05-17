@@ -144,10 +144,17 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <be>
-<div align="center">
+## 🤝 Let's Connect
+  
+<p align="center">
+Ideas grow better when shared—whether it’s tech talk, collaboration, or coffee chat, I’d love to connect!
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/pratap-singh-397230248/" target="_blank">
-    <button style="background-color:#0077B5;color:white;padding:10px 20px;border:none;border-radius:5px;font-size:16px;cursor:pointer;">
-      Connect on LinkedIn
-    </button>
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-</div>
+</p>
+
+
+
