@@ -143,9 +143,10 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<be>
-## 🤝 Let's Connect
-  
+<br>
+
+<h3 align="center">#Let's Connect 🤝</h3>
+<br>
 <p align="center">
 Ideas grow better when shared—whether it’s tech talk, collaboration, or coffee chat, I’d love to connect!
 </p>
