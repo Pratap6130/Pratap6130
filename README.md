@@ -145,7 +145,7 @@
 
 <br>
 
-<h3 align="center">#Let's Connect 🤝</h3>
+<h3 align="Left">Let's Connect 🤝</h3>
 <br>
 <p align="center">
 Ideas grow better when shared—whether it’s tech talk, collaboration, or coffee chat, I’d love to connect!
