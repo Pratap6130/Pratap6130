@@ -82,7 +82,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratap6130&bg_color=000000&color=ffffff&line=ffffff&point=ff7300&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
